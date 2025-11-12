@@ -2,11 +2,6 @@
 name: Jekyll Webpage
 tools: [Python, Altair, vega-lite]
 description: This is a homework assignment that uses vega-lite for an interactive visualization and a regular visualziation with the buildings dataset!
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
 ---
 
 # Example including vega-lite
