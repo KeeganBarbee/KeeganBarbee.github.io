@@ -12,4 +12,4 @@ This graph is attempting to show the relationship between when a building was bu
 [View the Data on GitHub](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
 
 ### The Analysis
-[View the Analysis Notebook on GitHub](https://github.com/KeeganBarbee/KeeganBarbee.github.io/blob/main/Jekyll.ipynb)
+[View the Analysis Notebook on GitHub](https://github.com/KeeganBarbee/KeeganBarbee.github.io/blob/main/Workbook.ipynb)
