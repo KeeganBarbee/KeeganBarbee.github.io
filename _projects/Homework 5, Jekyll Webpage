@@ -48,5 +48,8 @@ This graph is attempting to show the relationship between when a building was bu
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://nbviewer.org/github/KeeganBarbee/team-f1-fa24/blob/main/Weather/Jekyll.ipynb" text="The Analysis" %}
+  <a href="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb"
+     target="_blank" rel="noopener noreferrer" class="btn btn-outline-primary">
+     The Analysis
+  </a>
 </div>
