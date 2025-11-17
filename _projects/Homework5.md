@@ -2,13 +2,14 @@
 name: Homework 5 Jekyll Webpage
 tools: [Python, Altair, vega-lite]
 image: assets/pngs/Screenshot 2025-11-17 092542.png
-description: This is a "showcase" project that uses vega-lite and altair for interactive viz!
+description: This is Homework 5 which uses vega-lite and altair for interactive viz!
 custom_js:
   - vega.min
   - vega-lite.min
   - vega-embed.min
   - justcharts
 ---
+# My Homework 5: Find the Data and the Analysis Below
 
 ## Visualization 1 Description:
 Essentially, what is being visualized here is the construction of all the buildings by year for every different agency and these agencies include different universities, colleges, departments, and much more. This graph can be helpful in identifying the inception of a certain agency based on its first building and also how present it is today based on where the IQR of the boxplot resides. However, everything should be taken with a grain of salt as many of these agencies still operate regardless of whether their buildings are old or not like the Historic Preservation Agency. There is a wide color scheme, so it is easier to differentiate the different agencies from each other. There is no set scheme but really just a vast array. I used boxplots for this graph because it visualizes the spread and median age of the buildings for an agency like mentioned before and this may provide insights into whether there may need to be some renovations for example. The x-axis encoding is of agencies, the y-axis is of the year they were constructed, and the color is of agencies as well. The reason for this is one quantitative and one qualitative variable for a boxplot. There were not a lot of transformations done other than removing some agencies that did not have a lot of buildings.
