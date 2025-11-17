@@ -18,9 +18,9 @@ Essentially, what is being visualized here is the construction of all the buildi
 This graph is attempting to show the relationship between when a building was built and how big the building was. For this graph, there are some shortcomings. For example, when you change which agency is being shown, it automatically changes the scale of the graph, so that may be kind of confusing when interpreting it as you would always have to look back the axes. The filter allows users to change which agency they are looking at, so they can look at buildings for a specific group, almsot like a more in depth look at the first plot being able to see each data point and how big the building was along with when it was constructed. It is color-coded by building status. This is a useful encoding as it can tell you many things about whether a certain building is still operational or what is being newly built, so you see the overall progression of an agency over time. Also, be careful with that though as the color coding changes when you switch between agencies which is why the legend is turned on. The color coding is also better than most other ones because most categorical columns had many unique values and it would be too confusing. The interactivity makes it easier to focus on a single agency's building trends without being distracted by the clutter of points that make everything hard to interpret. So, overall it makes it clearer to understand the relationship between when a building was built and how big it is while also taking into consideration whether it is still operating.
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+{% include elements/button.html link="https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/KeeganBarbee/KeeganBarbee.github.io/blob/main/Workbook.ipynb" text="The Analysis" %}
 </div>
