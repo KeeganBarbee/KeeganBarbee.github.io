@@ -22,5 +22,5 @@ This graph is attempting to show the relationship between when a building was bu
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/KeeganBarbee/KeeganBarbee.github.io/blob/main/Workbook.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://nbviewer.org/github/KeeganBarbee/KeeganBarbee.github.io/blob/main/Workbook.ipynb" text="The Analysis" %}
 </div>
